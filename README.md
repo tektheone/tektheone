@@ -1,104 +1,52 @@
-<!-- About Section -->
-### 👋 About me
-<section>
-  <p align="justify">
-    I'm Jade, a Front-end Developer from the Philippines. I taught myself how to code and I love exploring new things and technologies.
-  </p>
-</section>
-<!-- End of About -->
 
-<!-- Highlight Section -->
-### 🔥 Highlights
-<div align="center">
-  <a href="https://jade-music-playlist.pages.dev/" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jade-banares&theme=github-dark-dimmed&border_radius=5.5" alt="GitHub Streak"/>
-  </a>
-</div>
-<!-- End of Highlight -->
-<br>
+<img alt="Hi, I'm Brandon Estrella" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Brandon%20Estrella" style="width: 100%;" />
 
-[![Visits](https://komarev.com/ghpvc/?username=jade-banares&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://jade-banares.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Email_Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:jade.arinal.banares@gmail.com)
-[![Gmail](https://img.shields.io/badge/LinkedIn%21-1d1f21?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jade-banares/)
+A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
-<!-- Skills -->
-### 💻 Technologies and Tools
+- Leading engineering at [Marriage365](https://marriage365.com)
+- Building LLM-powered tools and real-time fantasy sports apps
+- Lover of elegant code, developer experience, and infrastructure that scales
 
-<div align="center">
+---
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
-  ![CSS3](https://img.shields.io/badge/-CSS-1d1f21?style=flat&logo=CSS&logoColor=ffffff)
-  ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-1d1f21?style=flat&logo=tailwindcss&logoColor=3ebff8)
-  ![SASS](https://img.shields.io/badge/-Sass-1d1f21?style=flat&logo=Sass&logoColor=CC6699)
-  ![CloudFlare](https://img.shields.io/badge/-CloudFlare-1d1f21?style=flat&logo=cloudflare&logoColor=f48527)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=flat&logo=Bootstrap&logoColor=7952B3)
-  ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=flat&logo=Figma&logoColor=F24E1E)
-  ![Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=flat&logo=adobephotoshop&logoColor=2fa3f7)
-  ![Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=flat&logo=adobeillustrator&logoColor=FC6D26)
-  ![Git](https://img.shields.io/badge/-Git-1d1f21?style=flat&logo=Git&logoColor=F05032)
-  ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
-  ![ReactJS](https://img.shields.io/badge/-React_JS-1d1f21?style=flat&logo=React&logoColor=66dbfb)
-  ![NPM](https://img.shields.io/badge/-NPM-1d1f21?style=flat&logo=NPM&logoColor=cd3e3d)
-  ![GoogleAd](https://img.shields.io/badge/-Google_Adsense-1d1f21?style=flat&logo=GoogleAdsense&logoColor=F5BB18)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-1d1f21?style=flat&logo=nodedotjs&logoColor=#43853d)
-  ![jQuery](https://img.shields.io/badge/-jQuery-1d1f21?style=flat&logo=jQuery&logoColor=0865a7)
-  ![Firebase](https://img.shields.io/badge/-Firebase-1d1f21?style=flat&logo=firebase&logoColor=dd2c00)
-  ![axios](https://img.shields.io/badge/-Axios-1d1f21?style=flat&logo=axios&logoColor=5a29e3)
-  ![MongoDb](https://img.shields.io/badge/-MongoDB-1d1f21?style=flat&logo=mongodb&logoColor=00ee63)
-</div>
-<!-- End of Skills Section -->
+## 52 Open Source Projects in 52 Weeks
+<a href="https://github.com/onamfc/52-for-52"><img src="https://dpt3aqeyfpth5.cloudfront.net/img/52-for-52-logo.png" style="height:200px;"></a>
 
-<!-- Featured Project -->
-### 📂 Featured Projects
-<section>
-  <table>
-    <tr>
-      <td  valign="top">
-        <h3 align="center">Bookmark Landing Page</h3>
-        <br />
-        <div align="center">
-          <a target="_blank" href="https://bookmark-by-jade.pages.dev/">
-            <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hwi1ergmy7tibqa5bvyf.jpg" width="95%" alt="Bookmark Landing Page" />
-          </a>
-          </p>
-          <br />
-          <p align="center">
-            <a href="https://github.com/data-sets/bookmark-landing-page" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logoColor=fff" />
-            </a>
-            <a href="https://bookmark-by-jade.pages.dev/" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=icloud&logoColor=fff" />
-            </a>
-        </div>
-        <p align="center">
-          <strong>HTML5, SASS, Javascript, Framer-motion & React JS</strong> - A simple bookmark landing page with tabbed features and faq accordion
-        </p>
-        <br>
-      </td>
-      <td  valign="top">
-        <h3 align="center">My Team Multi-page Website</h3>
-        <br />
-        <p align="center">
-          <a target="_blank" href="https://multi-page-by-jade.pages.dev/">
-            <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/vivqu9zlxbcv5mgxdjxq.jpg" width="95%" alt="Multi Page Website" />
-          </a>
-        </p>
-        <br />
-        <div align="center">
-          <a href="https://github.com/data-sets/multi-page" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logoColor=fff" />
-          </a>
-          <a href="https://multi-page-by-jade.pages.dev/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=icloud&logoColor=fff" />
-          </a>
-        </div>
-        <br>
-        <p align="center">
-          <strong>HTML5, CSS3, React JS, SCSS & Framer-motion</strong> - Professional Front-end Developer's workflow. 3-page fully-functional website
-        </p>
-      </td>
-    </tr>
-  </table>
-</section>
-<!--End of Featured Project -->
+Over the next year, I'm building and releasing 52 open source projects in 52 weeks. Why?
+
+- Because consistency beats intensity.
+- Because I believe in building in public.
+- And because I want to give back to the dev community that's given me so much.
+
+This isn’t about launching the next unicorn.
+It’s about solving real problems, building momentum, and sharing what I learn along the way.
+
+Each week, I’ll:
+- Launch a new open source repo
+- Share a short write-up on how it works
+- Post lessons learned on GitHub, [LinkedIn](https://linkedin.com/in/brandon-estrella-dev), and [Twitter](https://twitter.com/sitetransition)
+
+### The 52 for 52 Project List
+ 1. [DevLogger for Laravel](https://github.com/onamfc/laravel-devlogger)
+ 2. [Gravity Forms to Clevertap Connector](https://github.com/onamfc/gravity-forms-clevertap-integration)
+ 3. [Database Archiver for Laravel](https://github.com/onamfc/laravel-database-archiver)
+
+ ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
+
+---
+
+## My Skills
+
+<img alt="programming is rock n roll" src="./img/get-wild.gif" style="width: 100%; max-width:610px;" />
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,laravel,php,wordpress,mysql,redis,docker,aws,github,git,vite,webpack,npm,nextjs,nodejs,redux,jest,html,css,tailwind,figma,postman&perline=11)](#)
+
+---
+
+## Let’s Connect
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonestrelladev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-estrella-dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitetransition)
+
+---
